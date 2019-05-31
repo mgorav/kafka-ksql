@@ -13,5 +13,5 @@ docker-compose up -d
 
 ## Run the class EmbeddedKsqlQuerying
 
-This is create a stream orders
+This will create a stream orders
 
